@@ -128,6 +128,9 @@
 
 - Mở trình duyệt gõ: http://hangman.local để chạy web
 <img width="1919" height="1077" alt="Ảnh chụp màn hình 2025-09-28 162204" src="https://github.com/user-attachments/assets/648fd17a-20df-49b9-bdae-e065f83c1afd" />
+<img width="1919" height="1026" alt="Ảnh chụp màn hình 2025-09-28 163805" src="https://github.com/user-attachments/assets/5ee8feb9-97e6-4e3c-802b-56225e171a9b" />
+<img width="1919" height="1021" alt="Ảnh chụp màn hình 2025-09-28 163813" src="https://github.com/user-attachments/assets/ed26934b-d76d-4461-980d-7a4fd930fc6f" />
+<img width="1919" height="1026" alt="Ảnh chụp màn hình 2025-09-28 163842" src="https://github.com/user-attachments/assets/09092383-1dcd-41f7-bd68-a700d2ca1816" />
 
 
 
