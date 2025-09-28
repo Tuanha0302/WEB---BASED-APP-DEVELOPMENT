@@ -30,3 +30,10 @@
 - Gõ Blank Solution trong thanh tìm kiếm rồi chọn mục đó, bấm Next
 - Đặt tên Solution và tạo: HangmanGame -> Create
 <img width="1273" height="839" alt="Ảnh chụp màn hình 2025-09-28 142510" src="https://github.com/user-attachments/assets/a51e9e52-f1d8-4d44-a128-22f4a7c8cdee" />
+
+### Bước 2: Tạo Class Library
+- Chọn View -> Solution Explorer, click chuột phải vào tên solution vừa tạo, chọn Add -> New Project
+- Tìm Class Library (.NET Framwork) rồi sau đó chọn Next
+- Đặt tên cho project đó là: HangmanLib
+- Ở ngay mục Framwork chọn .NET Framwork 2.0
+<img width="1265" height="844" alt="image" src="https://github.com/user-attachments/assets/26e2216e-ed82-44a1-81b5-55027a2a7940" />
