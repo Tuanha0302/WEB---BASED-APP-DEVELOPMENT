@@ -1,0 +1,9 @@
+E:\web\Hangmangame\Hangman\HangmanConsole\obj\Debug\HangmanConsole.csproj.AssemblyReference.cache
+E:\web\Hangmangame\Hangman\HangmanConsole\obj\Debug\HangmanConsole.csproj.CoreCompileInputs.cache
+E:\web\Hangmangame\Hangman\HangmanConsole\bin\Debug\HangmanConsole.exe
+E:\web\Hangmangame\Hangman\HangmanConsole\bin\Debug\HangmanConsole.pdb
+E:\web\Hangmangame\Hangman\HangmanConsole\bin\Debug\HangmanLib.dll
+E:\web\Hangmangame\Hangman\HangmanConsole\bin\Debug\HangmanLib.pdb
+E:\web\Hangmangame\Hangman\HangmanConsole\obj\Debug\HangmanC.6294E424.Up2Date
+E:\web\Hangmangame\Hangman\HangmanConsole\obj\Debug\HangmanConsole.exe
+E:\web\Hangmangame\Hangman\HangmanConsole\obj\Debug\HangmanConsole.pdb
