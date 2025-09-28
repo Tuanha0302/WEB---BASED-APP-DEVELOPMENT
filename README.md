@@ -37,3 +37,42 @@
 - Đặt tên cho project đó là: HangmanLib
 - Ở ngay mục Framwork chọn .NET Framwork 2.0
 <img width="1265" height="844" alt="image" src="https://github.com/user-attachments/assets/26e2216e-ed82-44a1-81b5-55027a2a7940" />
+
+#### Build DLL
+- Tạo 1 class mới mang tên HangmanGame.cs
+- Sau đó gán code vào HangmanGame -> Ctrl + S
+- Nháy chuột phải vào project -> Build (hoặc Ctrl+Shift+B)
+- Kết quả: Trong folder bin\Debug (hoặc Release), sẽ có file HangmanLib.dll. Đây là DLL độc lập, copy dùng ở các project khác
+<img width="1714" height="910" alt="image" src="https://github.com/user-attachments/assets/8594ccf7-c0fb-4bb7-81df-4ea27d320bc0" />
+
+### Bước 3: Tạo Console App
+- Tạo Project: tương tự bước 2, Đặt tên project là HangmanConsole -> Create
+<img width="1274" height="850" alt="image" src="https://github.com/user-attachments/assets/8e8568d1-981f-4020-8077-1aca32a09a99" />
+- Sau khi tạo xong, nháy chuột phải vào Project chọn Add -> Reference -> Project -> HangmanLib (Project 1) -> OK
+<img width="982" height="683" alt="image" src="https://github.com/user-attachments/assets/dfacf62a-b7f4-4911-a692-b752850c97d7" />
+
+### Thêm file word
+- Thêm file words.txt và hints.txt vào thư mục bin/Debug trong HangmanConsole
+- Click chuột phải vào thư mục Debug -> Add -> Add New Item... -> TEXT File -> Open rồi đặt tên như trên
+<img width="1704" height="904" alt="image" src="https://github.com/user-attachments/assets/75dd301d-f9da-4300-97b6-dd7f3f601fd5" />
+
+- Trong words.txt:
+  - HANOI
+  - MATH
+  - LAPTRINH
+- Trong hints.txt:
+  - Thủ đô của Việt Nam
+  - Môn học
+  - Kỹ năng viết code
+    
+#### Build & Run
+- Click chuột phải vào Project HangmanConsole chọn Build
+- Cho code vào Program.cs
+- Run code (F5 hoặc Ctrl + F5)
+<img width="1715" height="909" alt="image" src="https://github.com/user-attachments/assets/48ef29d4-cc07-4fd9-8c59-8f6a366b7575" />
+<img width="1469" height="764" alt="image" src="https://github.com/user-attachments/assets/76426333-3564-4532-b49e-7365794af58b" />
+
+
+
+
+
