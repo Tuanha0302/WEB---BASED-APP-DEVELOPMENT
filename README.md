@@ -109,7 +109,13 @@
 #### Build & Run
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/3e325d5c-dbe7-4c26-891a-452c63080487" />
 
-
+### Cấu hình IIS và domain
+- Mở Control Panel -> Programs -> Turn Windows features on or off -> Tick Internet Information Services -> OK
+- Mở IIS Manager -> Add Website -> Đặt:
+  - Sitename: HangmanGameweb
+  - Physical path: thư mục Hangmangame
+  - Binding: type: http ; IP Address: All Unassigned ; Port: 80
+  - Hostname: Hangman.local -> OK
 
 
 
