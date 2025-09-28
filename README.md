@@ -72,6 +72,47 @@
 <img width="1715" height="909" alt="image" src="https://github.com/user-attachments/assets/48ef29d4-cc07-4fd9-8c59-8f6a366b7575" />
 <img width="1469" height="764" alt="image" src="https://github.com/user-attachments/assets/76426333-3564-4532-b49e-7365794af58b" />
 
+### Bước 4: Tạo Windows Form Application
+- Em đã thiết kế ra một Wndow Form với giao diện cơ bản
+- Tạo project mới tương tự như hai bước trên, đặt tên là HangmanWinForm
+- Sau khi tạo xong, nháy chuột phải vào Project chọn Add -> Reference -> Project -> HangmanLib (Project 1) -> OK
+<img width="1266" height="840" alt="image" src="https://github.com/user-attachments/assets/61232ead-602e-4606-8b55-7615338e48a1" />
+
+#### Thiết kế đồ họa
+<img width="1711" height="907" alt="image" src="https://github.com/user-attachments/assets/bbaee114-9ae7-420e-9e7d-6eb0adedc3ed" />
+
+#### Build & Run
+- Click chuột phải vào Project HangmanConsole chọn Build
+- Cho code vào Form1.cs
+- Run code (F5 hoặc Ctrl + F5)
+<img width="1715" height="914" alt="image" src="https://github.com/user-attachments/assets/08e25c66-90f3-4223-b7a2-4fa1a2ac1b2a" />
+<img width="1716" height="910" alt="image" src="https://github.com/user-attachments/assets/2a79d8c0-eafb-4a13-815f-78a39f8fca6b" />
+
+### Bước 5: Tạo Web
+- Tạo project chọn Add -> New Project -> ASP.NET Web Application (.NET Framework) -> Đặt tên là HangmanGameweb
+- Chọn .NET Framework 2.0 -> create
+<img width="1270" height="849" alt="image" src="https://github.com/user-attachments/assets/b6f14330-9ade-4b46-86dc-452c57ea3ff1" />
+
+- Trong template, chọn Empty Web Application (không dùng MVC) -> OK
+- Sau khi tạo xong, thêm reference đến dll
+#### Tạo file index.html
+- Nháy chuột phải Project -> Add -> New Item -> HTML Page -> Đặt tên HtmlPage1.html
+- Tạo file HtmlPage1.html với HTML + CSS để hiển thị giao diện, và JavaScript để xử lý sự kiện
+<img width="1711" height="907" alt="image" src="https://github.com/user-attachments/assets/433ec395-8cb9-4f28-b176-780ade0e7368" />
+
+#### Tạo file api.aspx
+- Nháy chuột phải Project -> Add -> New Item -> WebForm -> Đặt tên api.aspx
+- Mở WebForm1.aspx, để trống nội dung markup, thêm code cho file.
+- Mở WebForm1.aspx -> WebForm1.aspx.cs để thêm code vào
+<img width="1709" height="913" alt="image" src="https://github.com/user-attachments/assets/8c6a327c-f6d9-41e6-ba6c-f6bbde3e437e" />
+
+#### Build & Run
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/3e325d5c-dbe7-4c26-891a-452c63080487" />
+
+
+
+
+
 
 
 
