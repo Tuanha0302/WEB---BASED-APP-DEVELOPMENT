@@ -115,7 +115,20 @@
   - Sitename: HangmanGameweb
   - Physical path: thư mục Hangmangame
   - Binding: type: http ; IP Address: All Unassigned ; Port: 80
-  - Hostname: Hangman.local -> OK
+  - Hostname: hangman.local -> OK
+<img width="962" height="1020" alt="image" src="https://github.com/user-attachments/assets/d47c6650-b5d3-4112-812f-5873dc757e60" />
+- Thêm domain vào file hosts:
+  - Notepad -> Run as Administrator
+  - Open file C:\Windows\System32\drivers\etc\hosts
+  - Thêm dòng 127.0.0.1 hangman.local
+<img width="1429" height="787" alt="image" src="https://github.com/user-attachments/assets/016b9820-ac92-4727-8972-c9adf2ff518d" />
+
+- Cấu hình Application Pool
+<img width="1919" height="1023" alt="Ảnh chụp màn hình 2025-09-28 162451" src="https://github.com/user-attachments/assets/202cdf60-f012-4b53-a4e4-af5715f400dd" />
+
+- Mở trình duyệt gõ: http://hangman.local để chạy web
+<img width="1919" height="1077" alt="Ảnh chụp màn hình 2025-09-28 162204" src="https://github.com/user-attachments/assets/648fd17a-20df-49b9-bdae-e065f83c1afd" />
+
 
 
 
