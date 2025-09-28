@@ -1,0 +1,6 @@
+E:\web\Hangmangame\Hangman\HangmanLib\obj\Debug\HangmanLib.csproj.AssemblyReference.cache
+E:\web\Hangmangame\Hangman\HangmanLib\obj\Debug\HangmanLib.csproj.CoreCompileInputs.cache
+E:\web\Hangmangame\Hangman\HangmanLib\bin\Debug\HangmanLib.dll
+E:\web\Hangmangame\Hangman\HangmanLib\bin\Debug\HangmanLib.pdb
+E:\web\Hangmangame\Hangman\HangmanLib\obj\Debug\HangmanLib.dll
+E:\web\Hangmangame\Hangman\HangmanLib\obj\Debug\HangmanLib.pdb

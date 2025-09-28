@@ -1,0 +1,12 @@
+E:\web\Hangmangame\Hangman\HangmanWinForm\bin\Debug\HangmanWinForm.exe
+E:\web\Hangmangame\Hangman\HangmanWinForm\bin\Debug\HangmanWinForm.pdb
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.csproj.AssemblyReference.cache
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.Properties.Resources.resources
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.csproj.GenerateResource.cache
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.csproj.CoreCompileInputs.cache
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.exe
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.pdb
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanWinForm.Form1.resources
+E:\web\Hangmangame\Hangman\HangmanWinForm\bin\Debug\HangmanLib.dll
+E:\web\Hangmangame\Hangman\HangmanWinForm\bin\Debug\HangmanLib.pdb
+E:\web\Hangmangame\Hangman\HangmanWinForm\obj\Debug\HangmanW.7BB02178.Up2Date

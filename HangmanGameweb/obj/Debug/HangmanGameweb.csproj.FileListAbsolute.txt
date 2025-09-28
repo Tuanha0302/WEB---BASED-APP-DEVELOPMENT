@@ -1,0 +1,10 @@
+E:\web\Hangmangame\Hangman\HangmanGameweb\bin\HangmanGameweb.dll.config
+E:\web\Hangmangame\Hangman\HangmanGameweb\bin\HangmanGameweb.dll
+E:\web\Hangmangame\Hangman\HangmanGameweb\bin\HangmanGameweb.pdb
+E:\web\Hangmangame\Hangman\HangmanGameweb\bin\HangmanLib.dll
+E:\web\Hangmangame\Hangman\HangmanGameweb\bin\HangmanLib.pdb
+E:\web\Hangmangame\Hangman\HangmanGameweb\obj\Debug\HangmanGameweb.csproj.AssemblyReference.cache
+E:\web\Hangmangame\Hangman\HangmanGameweb\obj\Debug\HangmanGameweb.csproj.CoreCompileInputs.cache
+E:\web\Hangmangame\Hangman\HangmanGameweb\obj\Debug\HangmanG.7961C310.Up2Date
+E:\web\Hangmangame\Hangman\HangmanGameweb\obj\Debug\HangmanGameweb.dll
+E:\web\Hangmangame\Hangman\HangmanGameweb\obj\Debug\HangmanGameweb.pdb
